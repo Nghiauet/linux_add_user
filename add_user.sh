@@ -16,7 +16,7 @@ fi
 USERNAME=$1
 
 # Update password variable
-PASSWORD='vbdi@123'
+PASSWORD='xxx@123'
 
 # Create a new user with the provided username, home directory, and set the default shell to bash
 useradd -m -d /home/"$USERNAME" -s /bin/bash "$USERNAME"
