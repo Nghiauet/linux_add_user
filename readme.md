@@ -1,5 +1,5 @@
 # add user
-default password: vbdi@123
+default password: xxx@123
 ## run
 ```bash
 chmod +x add_user.sh
